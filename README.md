@@ -1,2 +1,3 @@
 # Soccer-video-analysis
-The final project of my studies , we had to create an algorithm for a known problem , me and my partner selected the soccer field for that. We used image processing and ML model for  implementation. The final product is a program that for a given electronic game("Fifa" video) will return a statistical report for both teams, and also with some relevant conclusions according to their game stats.
+A final project of my Bachelor's degree. We decided to develop an algorithm that analyze a soccer videos , with the help of image processing and Machine learning model.The algorithm focusing on important events on the game ,as  corners kicks , goals , dangerous shots and cards . 
+The output is a game report that contains statistical data and conclusions that produced for each team based on the algorithm results in order to help the users make imporvments for future games.
